@@ -2,7 +2,7 @@
   "name": "books-api",
   "private": true,
   "version": "0.1.0",
-  "description": "A Strapi application",
+  "description": "A Strapi application to demonstrate how to create content types and expose them via APIs.",
   "scripts": {
     "develop": "strapi develop",
     "start": "strapi start",
@@ -17,7 +17,9 @@
     "better-sqlite3": "7.4.6"
   },
   "author": {
-    "name": "A Strapi developer"
+    "name": "Rupak Ganguly",
+    "email" : "hello@rupakganguly.com",
+    "url" : "https://rupakganguly.com"    
   },
   "strapi": {
     "uuid": "d615d142-9896-4bfd-a716-f98def40f5b9"

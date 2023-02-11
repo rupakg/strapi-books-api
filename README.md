@@ -1,11 +1,13 @@
-# 🚀 Getting started with Strapi
+# 🚀 Books API
 
-Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
+A Strapi application to demonstrate how to create content types and expose them via APIs.
 
+The `books-api` application is a companion app for the article [How to create a Strapi CMS app to manage content]() written by [Rupak Ganguly](https://rupakganguly.com).
+
+## Development
 ### `develop`
 
-Start your Strapi application with autoReload enabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-develop)
-
+Start your Strapi application with autoReload enabled. 
 ```
 npm run develop
 # or
@@ -14,7 +16,7 @@ yarn develop
 
 ### `start`
 
-Start your Strapi application with autoReload disabled. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-start)
+Start your Strapi application with autoReload disabled.
 
 ```
 npm run start
@@ -24,7 +26,7 @@ yarn start
 
 ### `build`
 
-Build your admin panel. [Learn more](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html#strapi-build)
+Build your admin panel. 
 
 ```
 npm run build
@@ -54,4 +56,3 @@ Feel free to check out the [Strapi GitHub repository](https://github.com/strapi/
 
 ---
 
-<sub>🤫 Psst! [Strapi is hiring](https://strapi.io/careers).</sub>
