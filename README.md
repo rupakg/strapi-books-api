@@ -1,10 +1,22 @@
-# 🚀 Books API
+# 🚀 Strapi Books API
 
-A Strapi application to demonstrate how to create content types and expose them via APIs.
+A Strapi application to demonstrate how to create content types using the Strapi Dashboard Admin UI and expose them via APIs.
 
-The `books-api` application is a companion app for the article [How to create a Strapi CMS app to manage content]() written by [Rupak Ganguly](https://rupakganguly.com).
+The `strapi-books-api` application is a companion app for the article [How to create a Strapi CMS app to manage content]() written by [Rupak Ganguly](https://rupakganguly.com).
 
 ## Development
+
+### Pre-requisites
+
+- **Node.js** installed
+	- Only Maintenance and LTS versions are supported (`v14`, `v16`, and `v18`).
+	- Node v18.x is recommended for Strapi `v4.3.9` and above
+- Node.js package manager
+	-  **npm** (`v6` only) or **yarn**
+- **Python** (needed for using **SQLite** database
+
+**Note**: I am using Node.js `v18.13.0` and Python `2.7.15` (since we use a SQLite database)
+
 ### `develop`
 
 Start your Strapi application with autoReload enabled. 

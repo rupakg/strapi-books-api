@@ -1,5 +1,5 @@
 {
-  "name": "books-api",
+  "name": "strapi-books-api",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application to demonstrate how to create content types and expose them via APIs.",
