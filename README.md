@@ -2,7 +2,9 @@
 
 A Strapi application to demonstrate how to create content types using the Strapi Dashboard Admin UI and expose them via APIs.
 
-The `strapi-books-api` application is a companion app for the article [How to create a Strapi CMS app to manage content]() written by [Rupak Ganguly](https://rupakganguly.com).
+The `strapi-books-api` application is a companion app for the article [How to create a Strapi CMS app to manage content](https://rupakganguly.com/posts/how-to-create-a-strapi-cms-app-to-manage-content/) written by [Rupak Ganguly](https://rupakganguly.com).
+
+![Use Strapi CMS to define, create, and manage content](https://user-images.githubusercontent.com/8188/219970375-fe82faf0-6706-4e2a-9df0-d85e53bd776e.png)
 
 ## Development
 
